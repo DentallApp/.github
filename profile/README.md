@@ -25,7 +25,7 @@
   This application was actually a degree project which can be found <a href="http://repositorio.ug.edu.ec/handle/redug/65127">here</a> (only available in   spanish).
 </p>
 
-### Main features
+## Main features
 
 - Role-based authorization
 - Appointment scheduling from a chatbot
@@ -35,3 +35,17 @@
 - Management of Dental services 
 - Management of specific treatments for each service
 - And much more...
+
+## Contributors
+
+### front-end
+
+<a href = "https://github.com/DentallApp/front-end/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=DentallApp/front-end"/>
+</a>
+
+### back-end
+
+<a href = "https://github.com/DentallApp/back-end/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=DentallApp/back-end"/>
+</a>
