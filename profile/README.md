@@ -27,7 +27,7 @@
 
 ## Why was this project created?
 
-This project was created with the purpose of contributing to the developer community so that together we can improve the software and learn from each other. This project is not perfect, many things can be improved, so if you want to contribute, go ahead. Any contribution is welcome. 
+This project was created with the purpose of satisfying the needs of a dental office and at the same time contribute to the community of developers so that together we can improve the software and learn from each other. This project is not perfect, many things can be improved, so if you want to contribute, go ahead. Any contribution is welcome.
 
 ## Main features
 
