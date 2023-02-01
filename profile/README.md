@@ -25,6 +25,10 @@
   This application was actually a degree project which can be found <a href="http://repositorio.ug.edu.ec/handle/redug/65127">here</a> (only available in   spanish).
 </p>
 
+## Why was this project created?
+
+This project was created with the purpose of contributing to the developer community so that together we can improve the software and learn from each other. This project is not perfect, many things can be improved, so if you want to contribute, go ahead. Any contribution is welcome. 
+
 ## Main features
 
 - Role-based authorization
