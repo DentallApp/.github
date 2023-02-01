@@ -18,9 +18,20 @@
 </p>
 
 <p align="center">
-    <b>DentalApp</b> is an open source web application focused on appointment scheduling from a chatbot for a dental office.
+    <b>DentallApp</b> is an open source web application focused on appointment scheduling from a chatbot for a dental office.
 </p>
 
 <p align="center">
   This application was actually a degree project which can be found <a href="http://repositorio.ug.edu.ec/handle/redug/65127">here</a> (only available in   spanish).
 </p>
+
+### Main features
+
+- Role-based authorization
+- Appointment scheduling from a chatbot
+- Sending appointment reminders
+- Sending appointment cancellation messages
+- Management of offices
+- Management of Dental services 
+- Management of specific treatments for each service
+- And much more...
