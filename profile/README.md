@@ -17,39 +17,25 @@
   <br />
 </p>
 
-<p align="center">
-    <b>DentallApp</b> is an open source web application focused on appointment scheduling from a chatbot for a dental office.
-</p>
+**DentallApp** is a web application with chatbot for appointment management, reminders and sending appointment cancellation messages for the dental office called [World Dental CO](https://www.tiktok.com/@worlddentalco)
 
-<p align="center">
-  This application was actually a degree project which can be found <a href="http://repositorio.ug.edu.ec/handle/redug/65127">here</a> (only available in   spanish).
-</p>
+This application was actually a degree project which can be found <a href="http://repositorio.ug.edu.ec/handle/redug/65127">here</a> or you can also download the pdf [here](https://github.com/DentallApp/.github/blob/master/degree_project.pdf) (only available in spanish).
 
 ## Why was this project created?
 
-This project was created with the purpose of satisfying the needs of a dental office and at the same time contribute to the community of developers so that together we can improve the software and learn from each other. This project is not perfect, many things can be improved, so if you want to contribute, go ahead. Any contribution is welcome.
+This application was developed as a degree project for the [University of Guayaquil](https://www.ug.edu.ec), however, it is not ready to run in a production environment. All requirements for this project were obtained through interviews with the owner dentist of [World Dental CO](https://www.facebook.com/worlddentalco).
+
+In the end, this project was never deployed in that dental office for personal reasons of the authors. However, it was decided to publish the source code of this application so that the community can use it for learning purposes (learn from it or even improve it).
 
 ## Main features
 
-- Role-based authorization
 - Appointment scheduling from a chatbot
 - Sending appointment reminders
 - Sending appointment cancellation messages
-- Management of offices
-- Management of Dental services 
-- Management of specific treatments for each service
-- And much more...
+- Authentication based on JWT (JSON Web Token).
+- Role-based authorization
 
-## Contributors
+## Authors
 
-### front-end
-
-<a href = "https://github.com/DentallApp/front-end/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=DentallApp/front-end"/>
-</a>
-
-### back-end
-
-<a href = "https://github.com/DentallApp/back-end/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=DentallApp/back-end"/>
-</a>
+- [Dave Roman](https://github.com/MrDave1999)
+- [Guillermo Rivera](https://github.com/Guiller1999)
