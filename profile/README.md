@@ -29,11 +29,12 @@ In the end, this project was never deployed in that dental office for personal r
 
 ## Main features
 
-- Appointment scheduling from a chatbot
-- Sending appointment reminders
-- Sending appointment cancellation messages
+- Appointment scheduling from a chatbot.
+- Sending appointment information by whatsapp when scheduling an appointment.
+- Sending appointment reminders by WhatsApp.
+- Sending appointment cancellation messages by WhatsApp.
 - Authentication based on JWT (JSON Web Token).
-- Role-based authorization
+- Role-based authorization.
 
 ## Authors
 
